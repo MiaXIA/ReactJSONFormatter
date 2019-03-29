@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A small demo for reusable React Component. It takes data object and format it to a more readable JSON format
 
 ## Example ScreenShot
-https://github.com/MiaXIA/ReactJSONFormatter/raw/master/Example.png
+![image](https://github.com/MiaXIA/ReactJSONFormatter/raw/master/Example.png)
 
 ### Build and Run Locally
 use command in terminal
