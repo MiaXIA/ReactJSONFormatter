@@ -6,7 +6,7 @@ A small demo for reusable React Component. It takes data object and format it to
 ## Example ScreenShot
 ![image](https://github.com/MiaXIA/ReactJSONFormatter/raw/master/Example.png)
 
-### Build and Run Locally
+## Build and Run Locally
 use command in terminal
 
 ```
@@ -16,7 +16,7 @@ npm start
 ```
 Then it will run at [`localhost:3000`](http://localhost:3000)
 
-#### Usage
+## Usage
 Include the JSONFormatter.js file and provide the variable to render as the `value` property.
 
 ```
