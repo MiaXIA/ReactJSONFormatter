@@ -19,7 +19,7 @@ Then it will run at [`localhost:3000`](http://localhost:3000)
 ## Usage
 Include the JSONFormatter.js file and provide the variable to render as the `data` property.
 
-```
+```JavaScript
 import JSONFormatter from "/path to JSONFormatter.js";
 
 var data = {
